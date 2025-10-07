@@ -1,0 +1,6 @@
+{
+  "Name": "hello-world",
+  "ProjectType": "Process",
+  "Description": "Automation Ops Pipelines | CI/CD",
+  "MainFile": "Main.xaml"
+}
